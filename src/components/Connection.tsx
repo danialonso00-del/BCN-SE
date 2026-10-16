@@ -84,7 +84,7 @@ export default function Connection() {
 
   const CITY_CARDS = [
     { key: 'dubai' as const, role: 'Based in', name: 'Dubai', country: 'United Arab Emirates' },
-    { key: 'barcelona' as const, role: 'Operating in', name: 'Barcelona', country: 'Spain' },
+    { key: 'barcelona' as const, role: 'Knowledge in', name: 'Barcelona', country: 'Spain' },
   ];
 
   return (

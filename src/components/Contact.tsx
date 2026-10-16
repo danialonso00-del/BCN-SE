@@ -92,7 +92,7 @@ export default function Contact() {
 
         <p className="contact__location" data-reveal>
           <span className="contact__dot" aria-hidden="true" />
-          Based in Dubai. Operating in Barcelona.
+          Based in Dubai. Knowledge in Barcelona.
         </p>
       </div>
     </section>

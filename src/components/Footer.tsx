@@ -4,7 +4,15 @@ export default function Footer() {
     <footer className="site-footer">
       <div className="container site-footer__inner">
         <a className="site-footer__brand" href="#top" aria-label="BCN Sport Events — back to top">
-          <img src="/brand/logo-320.webp" width={852} height={306} alt="BCN Sport Events" loading="lazy" />
+          <img
+            src="/brand/logo-300.webp"
+            srcSet="/brand/logo-300.webp 300w, /brand/logo-582.webp 582w"
+            sizes="150px"
+            width={582}
+            height={187}
+            alt="BCN Sport Events"
+            loading="lazy"
+          />
         </a>
         <p className="site-footer__meta">
           © {year} BCN Sport Events. Dubai · Barcelona.

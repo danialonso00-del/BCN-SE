@@ -56,7 +56,7 @@ export default function Hero() {
         <div className="hero__lower">
           <p className="hero__lead">
             <strong>Football academies. Training &amp; knowledge transfer. Sports events, facilities and business.</strong>{' '}
-            Based in Dubai, with operations in Barcelona, we help organisations build sporting projects that bring people
+            Based in Dubai, with knowledge rooted in Barcelona, we help organisations build sporting projects that bring people
             together, develop talent and put knowledge into practice.
           </p>
           <div className="hero__actions">

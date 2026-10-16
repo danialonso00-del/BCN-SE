@@ -82,7 +82,8 @@ Map
   (public domain, https://www.naturalearthdata.com/) via the world-atlas package. City positions use real
   city-centre coordinates; the distance shown is the great-circle distance between them.
 Logo
-  public/brand/* — derived from the supplied BCN Sport Events logo (LOGO.jpeg). Not altered other than resizing.
+  public/brand/*, public/favicon.ico — from the supplied BCN Sport Events artwork (Logo_BCNSE_LOGO_V1.png, FAVICON.png).
+  Not altered other than trimming transparent margins and resizing.
 
 Typefaces
   Barlow Condensed (SIL Open Font License 1.1) and Inter (SIL Open Font License 1.1), self-hosted via Fontsource.

@@ -18,7 +18,7 @@ export default function About() {
           </h2>
           <div className="about__body" data-reveal>
             <p className="lead">
-              BCN Sport Events is a Dubai-based sports consultancy with operations in Barcelona. We work across football
+              BCN Sport Events is a Dubai-based sports consultancy with knowledge rooted in Barcelona. We work across football
               academies, training and knowledge transfer, sports events, infrastructure and sports business — always
               around clear objectives and the people taking part.
             </p>

@@ -65,11 +65,11 @@ export default function Header() {
       <div className="site-header__inner">
         <a className="brand" href="#top" aria-label="BCN Sport Events — back to top" onClick={close}>
           <img
-            src="/brand/logo-320.webp"
-            srcSet="/brand/logo-320.webp 320w, /brand/logo-640.webp 640w"
-            sizes="(max-width: 600px) 132px, 168px"
-            width={852}
-            height={306}
+            src="/brand/logo-300.webp"
+            srcSet="/brand/logo-300.webp 300w, /brand/logo-582.webp 582w"
+            sizes="(max-width: 600px) 124px, 150px"
+            width={582}
+            height={187}
             alt="BCN Sport Events"
           />
         </a>
