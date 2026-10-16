@@ -1,0 +1,30 @@
+{
+  "name": "bcn-sport-events",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -b && vite build",
+    "preview": "vite preview",
+    "build:map": "node scripts/build-map.mjs"
+  },
+  "dependencies": {
+    "@fontsource-variable/inter": "^5.1.0",
+    "@fontsource/barlow-condensed": "^5.1.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "three": "^0.169.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.11",
+    "@types/react-dom": "^18.3.1",
+    "@types/three": "^0.169.0",
+    "@vitejs/plugin-react": "^4.3.2",
+    "d3-geo": "^3.1.1",
+    "topojson-client": "^3.1.0",
+    "typescript": "~5.6.3",
+    "vite": "^5.4.10",
+    "world-atlas": "^2.0.2"
+  }
+}
