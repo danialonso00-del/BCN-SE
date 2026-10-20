@@ -9,7 +9,7 @@ export default function Footer() {
             srcSet="/brand/logo-300.webp 300w, /brand/logo-582.webp 582w"
             sizes="150px"
             width={582}
-            height={187}
+            height={183}
             alt="BCN Sport Events"
             loading="lazy"
           />

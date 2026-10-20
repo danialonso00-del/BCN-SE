@@ -3,11 +3,11 @@
    Brand colours sampled from the supplied logo artwork (Logo_BCNSE_LOGO_V1.png).
    ========================================================================== */
 :root {
-  --brand-blue: #034375; /* mid-point of the logo gradient #00315E → #07639F */
-  --brand-blue-700: #00315e;
+  --brand-blue: #02377c; /* sampled from the logo: #003260 → #033984 */
+  --brand-blue-700: #003260;
   --brand-blue-300: #5c8bd6;
-  --brand-burgundy: #9a0640; /* mid-point of the logo gradient #7D0131 → #B20A4C */
-  --brand-burgundy-700: #7d0131;
+  --brand-burgundy: #910035; /* sampled from the logo: #7C0030 → #A40039 */
+  --brand-burgundy-700: #7c0030;
   --brand-burgundy-300: #e0245e; /* burgundy lifted for dark surfaces: large text and decoration only */
   --ink: #091524;
   --ink-2: #0e1e33;
@@ -757,7 +757,7 @@ main:focus {
   .hero__shade {
     background:
       linear-gradient(0deg, rgba(6, 13, 24, 0.96) 0%, rgba(6, 13, 24, 0.72) 55%, rgba(6, 13, 24, 0.4) 100%),
-      linear-gradient(180deg, rgba(3, 67, 117, 0.3), rgba(3, 67, 117, 0) 40%);
+      linear-gradient(180deg, rgba(2, 55, 124, 0.3), rgba(2, 55, 124, 0) 40%);
   }
 }
 
@@ -929,7 +929,7 @@ main:focus {
    Frame — plan-like linework around images
    ========================================================================== */
 .frame {
-  --frame-line: rgba(3, 67, 117, 0.45);
+  --frame-line: rgba(2, 55, 124, 0.45);
   --frame-accent: var(--brand-burgundy);
   --frame-muted: var(--muted);
   --frame-gap: 12px;
@@ -1479,8 +1479,8 @@ main:focus {
   position: relative;
   padding-block: var(--section-y);
   background:
-    radial-gradient(60% 50% at 18% 40%, rgba(3, 67, 117, 0.35), transparent 70%),
-    radial-gradient(45% 45% at 85% 75%, rgba(154, 6, 64, 0.16), transparent 70%),
+    radial-gradient(60% 50% at 18% 40%, rgba(2, 55, 124, 0.35), transparent 70%),
+    radial-gradient(45% 45% at 85% 75%, rgba(145, 0, 53, 0.16), transparent 70%),
     var(--ink);
   color: var(--white);
   overflow: hidden;
@@ -2560,7 +2560,7 @@ main:focus {
   border-color: var(--brand-blue);
   background: var(--brand-blue);
   color: var(--white);
-  box-shadow: 0 0 0 10px rgba(3, 67, 117, 0.08);
+  box-shadow: 0 0 0 10px rgba(2, 55, 124, 0.08);
 }
 
 .step.is-active .step__icon {

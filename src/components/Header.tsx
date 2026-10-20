@@ -69,7 +69,7 @@ export default function Header() {
             srcSet="/brand/logo-300.webp 300w, /brand/logo-582.webp 582w"
             sizes="(max-width: 600px) 124px, 150px"
             width={582}
-            height={187}
+            height={183}
             alt="BCN Sport Events"
           />
         </a>

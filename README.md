@@ -39,7 +39,7 @@ FAVICON.png                Supplied favicon artwork (monogram, transparent PNG)
 
 ## Design notes
 
-- **Colour.** Blue `#034375` and burgundy `#9A0640` are the mid-points of the gradients in the supplied logo (`#00315E → #07639F` and `#7D0131 → #B20A4C`). Blue carries structure (eyebrows, outlines, the Applications band). Burgundy carries actions (every CTA) and accents. On dark backgrounds a lifted burgundy (`#E0245E`) is used, only for large type and decoration.
+- **Colour.** Blue `#02377C` and burgundy `#910035` are sampled from the supplied logo (`#003260 → #033984` and `#7C0030 → #A40039`). Blue carries structure (eyebrows, outlines, the Applications band). Burgundy carries actions (every CTA) and accents. On dark backgrounds a lifted burgundy (`#E0245E`) is used, only for large type and decoration.
 - **Logo.** The supplied transparent PNG is only trimmed and resized, never recoloured. It sits on white: on a white plate over the hero, and in the header once it turns white on scroll. The favicon set (`favicon.ico`, 32px, Apple touch 180px on white, 192/512px for the manifest) comes from `FAVICON.png`.
 - **Type.** Barlow Condensed for display and Inter for body text, both self-hosted through Fontsource.
 - **Photography.** Stadium architecture leads the page: hero, About, Expertise and Statement. One people image (a team huddle) represents knowledge transfer. Every photo has the same cool, desaturated grade so the set reads as one series. The Statement roof uses a brand-blue duotone. No captions name a venue or suggest any project or relationship.
