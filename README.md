@@ -1,6 +1,6 @@
-# BCN Sport Events — website
+# BCN Sports Events — website
 
-Single-page corporate site for BCN Sport Events (Dubai · Barcelona), built with React, Vite and TypeScript.
+Single-page corporate site for BCN Sports Events (Dubai · Barcelona), built with React, Vite and TypeScript.
 
 ## Run
 

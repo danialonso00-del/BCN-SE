@@ -63,14 +63,14 @@ export default function Header() {
   return (
     <header className={`site-header${scrolled ? ' is-scrolled' : ''}${open ? ' is-open' : ''}`}>
       <div className="site-header__inner">
-        <a className="brand" href="#top" aria-label="BCN Sport Events — back to top" onClick={close}>
+        <a className="brand" href="#top" aria-label="BCN Sports Events — back to top" onClick={close}>
           <img
             src="/brand/logo-300.webp"
             srcSet="/brand/logo-300.webp 300w, /brand/logo-582.webp 582w"
             sizes="(max-width: 600px) 124px, 150px"
             width={582}
-            height={183}
-            alt="BCN Sport Events"
+            height={184}
+            alt="BCN Sports Events"
           />
         </a>
 

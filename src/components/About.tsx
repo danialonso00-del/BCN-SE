@@ -10,7 +10,7 @@ export default function About() {
         <div className="about__text">
           <p className="eyebrow" data-reveal>
             <span className="eyebrow__rule" aria-hidden="true" />
-            About BCN Sport Events
+            About BCN Sports Events
           </p>
           <h2 id="about-title" className="h2" data-reveal>
             Two cities.
@@ -18,7 +18,7 @@ export default function About() {
           </h2>
           <div className="about__body" data-reveal>
             <p className="lead">
-              BCN Sport Events is a Dubai-based sports consultancy with knowledge rooted in Barcelona. We work across football
+              BCN Sports Events is a Dubai-based sports consultancy with knowledge rooted in Barcelona. We work across football
               academies, training and knowledge transfer, sports events, infrastructure and sports business — always
               around clear objectives and the people taking part.
             </p>

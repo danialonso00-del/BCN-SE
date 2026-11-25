@@ -3,19 +3,19 @@ export default function Footer() {
   return (
     <footer className="site-footer">
       <div className="container site-footer__inner">
-        <a className="site-footer__brand" href="#top" aria-label="BCN Sport Events — back to top">
+        <a className="site-footer__brand" href="#top" aria-label="BCN Sports Events — back to top">
           <img
             src="/brand/logo-300.webp"
             srcSet="/brand/logo-300.webp 300w, /brand/logo-582.webp 582w"
             sizes="150px"
             width={582}
-            height={183}
-            alt="BCN Sport Events"
+            height={184}
+            alt="BCN Sports Events"
             loading="lazy"
           />
         </a>
         <p className="site-footer__meta">
-          © {year} BCN Sport Events. Dubai · Barcelona.
+          © {year} BCN Sports Events. Dubai · Barcelona.
           <span className="site-footer__credit">
             Photography is illustrative; see <a href="/CREDITS.txt">image credits</a>.
           </span>
